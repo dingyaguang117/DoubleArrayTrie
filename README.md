@@ -1,11 +1,13 @@
 DoubleArrayTrie
 ===============
 
-DoubleArrayTrie by java
+DoubleArrayTrie Java Implementation
 
-Introduce
+Introduction
 ----
-[http://www.co-ding.com/2012/05/28/DoubleArrayTrie](http://www.co-ding.com/2012/05/28/DoubleArrayTrie)
+[https://www.co-ding.com/blog/algorithm/2013-05-28-DoubleArrayTrie.html
+](https://www.co-ding.com/blog/algorithm/2013-05-28-DoubleArrayTrie.html)
+
 
 Usage
 ----
